@@ -49,5 +49,15 @@ If you encounter any issues, please check the following:
 - Verify that the video input file is in the correct format and location.
 - Check for common issues related to camera access and permissions.
 
+## Contact
+For questions or support, please contact:
+
+- **Y Manish Kumar**: [ymanishk602@gmail.com](mailto:ymanishk602@gmail.com)
+  
 ## Contributing
-If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
+Feel free to submit issues and pull requests. Contributions are welcome!
+
+
+## License
+This project is licensed under the MIT License.
+
