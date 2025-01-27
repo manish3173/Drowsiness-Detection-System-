@@ -1,6 +1,6 @@
 # Real Time Driver Drowsiness Detection System | OpenCV
 
-## Project Description
+
 The Real Time Driver Drowsiness Detection System utilizes computer vision techniques to monitor driver alertness and detect signs of drowsiness in real-time. This system aims to enhance road safety by providing timely alerts to drivers. The project has been updated to include new features such as improved detection algorithms and user interface enhancements.
 
 ## Required Modules
